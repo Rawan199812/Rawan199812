@@ -12,9 +12,8 @@ I’m a developer, whose main task is to solve problems and create value.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rawan199812)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rawan-abu-yasein-692750137/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/rawanabuyasein//)  
 
-<pre>
 *// algorithm of success*
-
+<pre>
 if(brain!=empty){
   keepCoding(); 
 }
