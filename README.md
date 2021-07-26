@@ -13,7 +13,7 @@ I’m a developer, whose main task is to solve problems and create value.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rawan199812)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rawan-abu-yasein-692750137/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/rawanabuyasein//)  
 
 ***// algorithm of success***
-
+<pre>
 if(brain!=empty){
 
   keepCoding();
@@ -25,7 +25,7 @@ else{
   orderCoffee();
   
 }
-
+</pre>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rawan199812&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rawan199812)  
