@@ -24,6 +24,5 @@ else{
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rawan199812&theme=dark)  
 
-![GitHub metrics](https://metrics.lecoq.io/Rawan199812)  
 
 
