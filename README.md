@@ -4,7 +4,8 @@
 **Skills: Python / Django/ REACT / JS / PostgreSQL/ SQLite 3/ Node.js/ HTML / CSS**
 
 - 💬 Ask me about my plans 
-- 📫 How to reach me: rawan.13579@icloud.com 
+- 📫 How to reach me: rawan.13579@icloud.com
+- [To view my resume](https://1drv.ms/w/s!AgacSEmFdwwCgQt-We6tH4Cal38W?e=ncKxCh)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rawan199812&show_icons=true&theme=dark)  
 
